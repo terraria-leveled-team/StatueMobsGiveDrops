@@ -1,8 +1,8 @@
 author = Webmilio, Blockaroz, Skipping
 side = Both
-version = 1.0.0.0
+version = 1.0.0.2
 displayName = Statue Mobs Give Drops
-homepage = https://discord.gg/tukvh6d
+homepage = https://forums.terraria.org/index.php?threads/statue-mobs-give-drops.80640/
 hideCode = false
 hideResources = true
 buildIgnore = *.csproj, *.user, *.bin, *.vs, *.exe, *.force, *.cache, *.FileListAbsolute.txt, *.xml, *.suo, obj\*, bin\*, .vs\*, .idea\*, .git\*, packages\*
