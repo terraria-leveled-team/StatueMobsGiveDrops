@@ -1,6 +1,6 @@
 author = Webmilio, Blockaroz, Skipping
 side = Both
-version = 1.0.0.2
+version = 1.0.1.1
 displayName = Statue Mobs Give Drops
 homepage = https://forums.terraria.org/index.php?threads/statue-mobs-give-drops.80640/
 hideCode = false

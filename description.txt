@@ -1,2 +1,2 @@
 ﻿This mod makes it so that mobs that are spawned from statues still give drops when they die.
-This took 1 line of code.
+This originally took 1 line of code, but since I added config options, it takes a little more now.
